@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**benzend/benzend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Benjamin Scott* and I am a **React Web Developer**!
 
-Here are some ideas to get you started:
+![react symbol](https://reactjs.org/logo-og.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- React.js w/ TypeScript
+- Redux or Context API
+- Node.js (Express)
+- MongoDB
+
+### Other Technologies I Know And Constantly Work With
+
+- Next.js
+- Material-UI
+- Chart.js
+- Firebase
+- Storybook
+- Three.js
+- PHP
+- Apache
+
+### Featured Repos
+
+- [Time Tracker](https://github.com/wwwLulu/Tracker-App)
+- [My React Library](https://github.com/benzend/bs-react-components)
+- [Calculator](https://github.com/benzend/react-typescript-calculator)
+- [Language Learning App](https://github.com/benzend/language-learning-app)
+
+Thanks for stopping by and checking out my profile!
