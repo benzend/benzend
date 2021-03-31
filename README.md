@@ -2,8 +2,6 @@
 
 My name is *Benjamin Scott* and I am a **React Web Developer**!
 
-![react symbol](https://reactjs.org/logo-og.png)
-
 ### Tech Stack
 
 - React.js w/ TypeScript
