@@ -11,14 +11,14 @@ My name is *Benjamin Scott* and I am a **React Web Developer**!
 
 ### Other Technologies I Know And Constantly Work With
 
-- Next.js
+- React.js
+- Tailwind
 - Material-UI
 - Chart.js
-- Firebase
-- Storybook
-- Three.js
-- PHP
-- Apache
+- Firebase (Storage, Functions, Firestore)
+- Algolia
+- JavaScript
+- Python
 
 ### Featured Repos
 
@@ -27,4 +27,3 @@ My name is *Benjamin Scott* and I am a **React Web Developer**!
 - [Calculator](https://github.com/benzend/react-typescript-calculator)
 - [Language Learning App](https://github.com/benzend/language-learning-app)
 
-Thanks for stopping by and checking out my profile!
