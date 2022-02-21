@@ -1,29 +1,17 @@
-### Hey there 👋
+# You have encountered a wild Benjamin Scott!
 
-My name is *Benjamin Scott* and I am a **React Web Developer**!
+As a self taught software engineer in the pursuit of the creation of useful and exciting things, this is where you can find my public work.
 
-### Tech Stack
+### Tech favorites 🛠
 
-- React.js w/ TypeScript
-- Redux or Context API
-- Node.js (Express)
-- MongoDB
+I've come to truly enjoy JavaScript and it's bffs TypeScript and React. They are my bread and butter.
 
-### Other Technologies I Know And Constantly Work With
+Python has been a friend for some time as well, building out plugins for 3D printers has been a blast!
 
-- React.js
-- Tailwind
-- Material-UI
-- Chart.js
-- Firebase (Storage, Functions, Firestore)
-- Algolia
-- JavaScript
-- Python
+I'm currently in the works for Ruby messing with backend systems, definitely an interesting one I'll say.
 
-### Featured Repos
+### Some things to know about me 🤓
 
-- [Time Tracker](https://github.com/wwwLulu/Tracker-App)
-- [My React Library](https://github.com/benzend/bs-react-components)
-- [Calculator](https://github.com/benzend/react-typescript-calculator)
-- [Language Learning App](https://github.com/benzend/language-learning-app)
-
+- I have a knack for studying foreign languages, which currently include Japanese, German and Spanish. I hope to grow this list in the future!
+- Hiking and outdoorsy things have been one of the best stress relievers I've come across. Getting "out there" is really something that comes in handy.
+- I'm on a constant search for bringing and creating value. I hope to help people however I can!
