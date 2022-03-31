@@ -14,7 +14,9 @@ A self taught software engineer in the pursuit of the creation of useful and exc
 ### Overview
 
 Out of my favorites, I've used React the most out of the three. However I've touched on Vue, Angular and Svelte in order to get my feet wet.
+
 When it comes to backend languages, node.js and express have been there for me for most of my backend experience, however I've really come to like Nestjs and its TypeScript support. Haven't built anything too big with it yet, however I do plan on doing more with it. 
+
 GoLang is a new land for me and also a language I'm currently interested in learning more of. 
 
 ## Some things to know about me 🤓
