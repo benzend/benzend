@@ -5,7 +5,7 @@ As a self taught software engineer in the pursuit of the creation of useful and 
 ## Tech favorites 🛠
 
 - I've come to truly enjoy JavaScript and it's bffs TypeScript and React. They are my bread and butter.
-- Python has been a friend for some time as well, building out plugins for 3D printers has been a blast!
+- Building out Python plugins for 3D printers has been a blast!
 - I'm currently working on my GoLang, a fantastic language. However, I'm currently wondering if I should check out Rust 🤔
 
 ## Some things to know about me 🤓
