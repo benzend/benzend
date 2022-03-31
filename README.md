@@ -1,6 +1,6 @@
 # You have encountered a wild Benjamin Scott!
 
-As a self taught software engineer in the pursuit of the creation of useful and exciting things, this is where you can find my public work.
+A self taught software engineer in the pursuit of the creation of useful and exciting things.
 
 ## Tech favorites 🛠
 
