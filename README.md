@@ -17,7 +17,7 @@ Out of my favorites, I've used React the most out of the three. However I've tou
 
 When it comes to backend languages, node.js and express have been there for me for most of my backend experience, however I've really come to like Nestjs and its TypeScript support. Haven't built anything too big with it yet, however I do plan on doing more with it. 
 
-GoLang is a new land for me and also a language I'm currently interested in learning more of. 
+GoLang is a new land for me. It's something that I've come to really find interesting with its outstanding multithreading support, binary compiler and other sweet features.  
 
 ## Some things to know about me 🤓
 
