@@ -2,7 +2,7 @@
 
 As a self taught software engineer in the pursuit of the creation of useful and exciting things, this is where you can find my public work.
 
-### Tech favorites 🛠
+## Tech favorites 🛠
 
 ---
 
@@ -12,7 +12,7 @@ Python has been a friend for some time as well, building out plugins for 3D prin
 
 I'm currently working on my GoLang, a fantastic language. However, I'm currently wondering if I should check out Rust 🤔
 
-### Some things to know about me 🤓
+## Some things to know about me 🤓
 
 ---
 
