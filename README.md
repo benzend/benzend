@@ -7,18 +7,20 @@ A self taught software engineer in the pursuit of the creation of useful and exc
 - TypeScript
 - React
 - Nestjs
-- GoLang
+- Rust
 
 ### Overview
 
-Out of my favorites, I've used React the most out of the four. However I've touched on Vue, Angular and Svelte in order to get my feet wet.
+React has been my main library since the beginning of my web development journey. However I've come to use many others as many developers do. 
 
-When it comes to backend languages, node.js and express have been there for me for most of my backend experience, however I've really come to like Nestjs and its TypeScript support. Haven't built anything too big with it yet, however I do plan on doing more with it. 
+Frontend-wise, I've built things with Vue, AngularJS and vanilla JS (yes jQuery too). 
 
-GoLang is a new land for me. It's something that I've come to really find interesting with its outstanding multithreading support, binary compiler and other sweet features.  
+On the backend side, I've managed to use Node for most of my backend experience. However I'm currently working with Ruby and am taking on Rust in my own freetime. 
+
+Speaking of Rust, I'm currently diving into it, as the challenge and benefits of learning it has inspired me. 
 
 ## Some things to know about me 🤓
 
-- I have a knack for studying foreign languages, which currently include Japanese, German and Spanish. I hope to grow this list in the future!
-- Hiking and outdoorsy things have been one of the best stress relievers I've come across. Getting "out there" is really something that comes in handy.
-- I'm on a constant search for bringing and creating value. I hope to help people however I can!
+- I have a knack for studying foreign languages, which currently include Japanese, German and Spanish. I hope to keep growing this list in the future.
+- Hiking and outdoorsy things have been one of the best stress relievers I've come across so I do it as much as I can.
+- I'm on a constant search for bringing up and creating value.
