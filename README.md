@@ -2,14 +2,14 @@
 
 A self taught software engineer in the pursuit of the creation of useful and exciting things.
 
-## Tech favorites 🛠
+## Favorite Languages 🛠
 
-- TypeScript
-- React
-- Nestjs
 - Rust
+- TypeScript (A JS Superset)
+- Python
+- Ruby
 
-### Overview
+## Overview
 
 JavaScript has been my main programming language since the beginning of my web development journey. However I've come to use many other tools as lots of engineers do. 
 
