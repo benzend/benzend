@@ -11,13 +11,13 @@ A self taught software engineer in the pursuit of the creation of useful and exc
 
 ### Overview
 
-React has been my main library since the beginning of my web development journey. However I've come to use many others as many developers do. 
+JavaScript has been my main programming language since the beginning of my web development journey. However I've come to use many other tools as lots of engineers do. 
 
-Frontend-wise, I've built things with Vue, AngularJS and vanilla JS (yes jQuery too). 
+Frontend-wise, I've built things with React, Vue, Svelte and AngularJS. I've also played with some JQuery as well. 
 
-On the backend side, I've managed to use Node for most of my backend experience. However I'm currently working with Ruby and am taking on Rust in my own freetime. 
+On the backend side, I've used Node for most of my initial backend experience. However I'm currently working with Ruby and am taking on Rust in my own freetime. 
 
-Speaking of Rust, I'm currently diving into it, as the challenge and benefits of learning it has inspired me. 
+Speaking of Rust, I'm currently diving into it, as the challenge and benefits of learning it has inspired me to.
 
 ## Some things to know about me 🤓
 
