@@ -30,4 +30,4 @@ On the backend side, I've used Node for most of my initial backend experience. H
 
 - As a learner, I have a knack for studying foreign languages which include Japanese, German and Spanish.
 - As a creative, I love to write, read non-fiction, draw from time to time and build anything and everything.
-- As an innovator, I'm on a constant search for bringing up and creating value wherever am able to.
+- As an innovator, I'm on a constant search for bringing up and creating value wherever I am able to.
