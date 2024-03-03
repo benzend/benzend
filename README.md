@@ -2,29 +2,27 @@
 
 A self taught software engineer in the pursuit of the creation of useful and exciting things.
 
-## Familiar Technologies
+## Tech
 
 I'm currently using these as my main daily frameworks:
 
 - Ruby on Rails
-- Django
 - AngularJS
-- NextJS
+- Remix
 
 ## Favorite Languages 🛠
 
-- Rust
 - TypeScript
-- Python
 - Ruby
+- Rust
 
 ## Overview
 
-JavaScript has been my main programming language since the beginning of my web development journey. However I've come to use many other tools as lots of engineers do. 
+JavaScript has been my main programming language since the beginning of my web development journey. However I've come to use many other tools as I've progressed throughout my career.
 
-Frontend-wise, I've built things with React, Nextjs, Vue, Svelte and AngularJS. I've also played with some JQuery as well. 
+Frontend-wise, I've used React (CRA), Remix, Nextjs, Vue, Svelte, AngularJS professionally.
 
-On the backend side, I've used Node for most of my initial backend experience. However I'm currently working with Ruby on Rails and Django and am taking on Rust in my own freetime.
+On the backend side, I've used Express, Ruby on Rails, Django, and Go to create and ship products for multiple teams.
 
 ## Some things to know about me 🤓
 
