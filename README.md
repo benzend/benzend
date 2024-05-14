@@ -26,6 +26,6 @@ On the backend side, I've used Express, Ruby on Rails, Django, and Go to create 
 
 ## Some things to know about me 🤓
 
-- As a learner, I have a knack for studying foreign languages which include Japanese, German and Spanish.
-- As a creative, I love to write, read non-fiction, draw from time to time and build anything and everything.
-- As an innovator, I'm on a constant search for bringing up and creating value wherever I am able to.
+- I have a knack for studying foreign languages which include Japanese, German and Spanish.
+- I love to write, read non-fiction, draw from time to time and build anything and everything.
+- I'm on a constant search for bringing up and creating value wherever I am able to.
