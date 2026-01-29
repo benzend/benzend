@@ -1,6 +1,6 @@
 A self taught software engineer in the passionate pursuit and creation of useful and exciting things with over 15,000 hours spent programming professionally for startups. Now leads organizations on how to effectively build high-quality software.
 
-**About (yes about sections are usually boring, but not this one)**
+### About (yes about sections are usually boring, but not this one)
 
 Ultimately, I'd argue that my obsession about **Growth** is my foundational trait that has pushed me to where I am now.
 
